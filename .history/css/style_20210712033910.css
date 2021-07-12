@@ -33,11 +33,11 @@ body{
         flex-direction: row;
         text-align: center;
     }
-    /* button{
+    button{
    
             background:transparent;
         color: var(--Very-light-gray-background-headings-buttons);
-    } */
+    }
 
 }
 @media (max-width:400px){
@@ -50,7 +50,7 @@ body{
 }
 .card{
     width: 300px;
-    height: 500px;
+    height: 400px;
     padding: 45px;
   
 }
@@ -90,19 +90,6 @@ button{
     border-color:var(--Very-light-gray-background-headings-buttons);
     
 }
-button{
-    border: none;
-}
-.btn1{
-    color:var(--Bright-orange);
-}
-.btn2{
-    color: var(--Dark-cyan);
-}
-.btn3{
-    color:var(--Very-dark-cyan);
-}
-
 /* button:first-of-type{
     background-color: transparent;
 }

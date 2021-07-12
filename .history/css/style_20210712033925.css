@@ -33,11 +33,11 @@ body{
         flex-direction: row;
         text-align: center;
     }
-    /* button{
+    button{
    
             background:transparent;
         color: var(--Very-light-gray-background-headings-buttons);
-    } */
+    }
 
 }
 @media (max-width:400px){
@@ -50,7 +50,7 @@ body{
 }
 .card{
     width: 300px;
-    height: 500px;
+    height: 400px;
     padding: 45px;
   
 }
