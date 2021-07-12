@@ -67,19 +67,18 @@ border-top-right-radius: 8px;
 border-bottom-right-radius: 8px;
 }
 img{
-    margin-bottom: 45px;
+    margin-bottom: 25px;
 }
 h1{
     font-family: 'Big Shoulders Display', cursive;
     color: var(--Very-light-gray-background-headings-buttons);
-    margin-bottom: 45px;
+    margin-bottom: 25px;
 
 }
 p{
     font-family: 'Lexend Deca', sans-serif;
     color:var(--Transparent-white-paragraphs);
-    margin-bottom: 65px;
-    Font-size: 15px;
+    margin-bottom: 45px;
 }
 button{
     margin-bottom: 45px;
